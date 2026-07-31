@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-mcgj0v.privatetalks.online/sitemap.xml
